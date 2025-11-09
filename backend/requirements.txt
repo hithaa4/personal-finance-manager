@@ -1,0 +1,11 @@
+Flask
+Flask-JWT-Extended
+Flask-Migrate
+Flask-SQLAlchemy
+psycopg2-binary
+python-dotenv
+bcrypt
+marshmallow
+pandas
+scikit-learn
+xhtml2pdf
