@@ -1,0 +1,29 @@
+# ======================
+# Python / Flask backend
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+.env
+migrations/
+
+# ======================
+# Node / React frontend
+# ======================
+node_modules/
+build/
+dist/
+.env.local
+.env.development
+.env.production
+
+# ======================
+# System / IDE files
+# ======================
+.DS_Store
+.vscode/
+.idea/
+*.log
